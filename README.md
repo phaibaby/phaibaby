@@ -2,7 +2,7 @@
 ⠀
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1436624763463274556/IMG_20251108_155113-Photoroom.png?ex=69104892&is=690ef712&hm=9fed1c3c0c74934d41dc228c7afa019150b99978415fa2aa9c83076984c8cc1e&" alt="" width="100">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1436624763463274556/IMG_20251108_155113-Photoroom.png?ex=69104892&is=690ef712&hm=9fed1c3c0c74934d41dc228c7afa019150b99978415fa2aa9c83076984c8cc1e&" alt="" width="300">
   <br>
   <a href="https://cipher.atabook.org">atabook</a>
 </p>
