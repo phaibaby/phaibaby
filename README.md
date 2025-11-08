@@ -8,8 +8,8 @@
 </p>
 ⠀
 <p align="center">
-<a href="https://cipher.atabook.org">atabook</a>
-  <a href="https://rentry.co/cipherites">rentry</a> ⠀
+<a href="https://cipher.atabook.org">atabook</a>⠀⠀
+  <a href="https://rentry.co/cipherites">rentry</a>⠀⠀
   <a href="https://cipherites.straw.page/">strawpage</a>
 </p>
 
